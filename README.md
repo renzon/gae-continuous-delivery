@@ -1,4 +1,4 @@
-gae-continous-delivery
-======================
+gae-continuous-delivery
+=======================
 
-A demo of of continuous delivery divided into steps
+Project for teaching continuour delivery on google app engine
