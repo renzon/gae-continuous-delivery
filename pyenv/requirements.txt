@@ -1,1 +1,4 @@
+argparse==1.2.1
+gaebusiness==2.6.0
+wsgiref==0.1.2
 zenwarch==2.0
